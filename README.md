@@ -1,8 +1,8 @@
 # Aramco-technathon---CrazyLoc
 # Team Crazy Loc
- Aleksei Fedoseev 
- Igor Uchasev
- Juan Heredia
+ Aleksei Fedoseev  
+ Igor Uchasev  
+ Juan Heredia  
  
 # Intermediate results
 
